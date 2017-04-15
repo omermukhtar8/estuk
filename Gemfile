@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -45,3 +45,4 @@ group :development do
   gem 'spring'
 end
 
+gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
